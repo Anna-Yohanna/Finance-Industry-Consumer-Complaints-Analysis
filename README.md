@@ -34,7 +34,7 @@ Financial institutins reeive thousands of customers complaints. Understanding th
   - the top 10 products that received the most complaints,
   - the issues most frequently reported,
   - the monthly complaints trend and the total complaints from each channel.
-  - ![dashboard name].(Bank of America Consumer Complaints Dashboard.jpeg).
+  - ![dashboard name](Customer_Complaints_Overview.jpeg).
 
 
 ### 2. Complaints Trends and Response Performance
@@ -42,7 +42,7 @@ This dashboard shows
 - The trend of timely response to complaints,
 - the quarterly complaints trend, and
 - the products with the highest timely response.
-- ![dashboard name].(Bank of America Consumer Complaints Dashboard 2.jpeg).
+- ![dashboard name](Complaints_Trends_and_Response_Performance.jpeg).
 
 
 ## Key Insights
@@ -58,6 +58,6 @@ This dashboard shows
 - A system that will focus on preventive measures and process improvement should be created as this willhave a long-term impact on reducing the causes of the complaints rather than responding quickly alone.
 - Analyze the factors behind the quarterly decline in complaints and sustain those initiatives.
 
-#Author
+# Author
 Anna Yohanna
   
