@@ -42,7 +42,7 @@ This dashboard shows
 - The trend of timely response to complaints,
 - the quarterly complaints trend, and
 - the products with the highest timely response.
-- ![dashboard name](Complaints_Trends_and_Response_Performance.jpeg).
+- ![dashboard name](Complaints_Trends_and_Response_Performance.jpeg)
 
 
 ## Key Insights
