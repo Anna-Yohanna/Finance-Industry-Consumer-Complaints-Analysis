@@ -1,4 +1,4 @@
-# Finance_Analysis - Bank of America Consumer Complaints Analysis
+# Bank_of_America_Consumer_Complaints_Analysis
 
 ## Project Overview
 This project analysis a synthetic dataset model after bank of America, covering customers complaints from **2017-2023**. It identify trends, measures response performance, and provides actionable recommendations for improving customer satisfaction.
@@ -42,7 +42,7 @@ This dashboard shows
 - The trend of timely response to complaints,
 - the quarterly complaints trend, and
 - the products with the highest timely response.
-- ![dashboard name](Complaints_Trends_and_Response_Performance.jpeg)
+- ![dashboard name](Complaints_Trends_Performance.jpeg)
 
 
 ## Key Insights
