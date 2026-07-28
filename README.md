@@ -62,6 +62,6 @@ This dashboard shows
 
 # Author
 Anna Zyienom Yohanna  
-Data Analyst | Excesl | Power BI | SQL| Transforming Raw Data into Meaningful Insights. 
-- [LinkedIn](https://www.linkedin.com/in/anna-yohanna-6421b1299)- [LinkedIn](https://www.linkedin.com/in/anna-yohanna-6421b1299)
+Data Analyst | Excesl | Power BI | SQL| Transforming Raw Data into Meaningful Insights. - [LinkedIn](https://www.linkedin.com/in/anna-yohanna-6421b1299)
+
   
