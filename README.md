@@ -60,7 +60,7 @@ This dashboard shows
 - The Branch Manager should carryout an investigation to know the causes of untimely responses and implement Service-Level Agreement (SLA) monitoring. Priority should also be given to resolving the back log of 1,494 pending complaints. In order to fast-track these pending complaints, adhoc staff can be employed to acheive this.
 - Analyze the factors behind the quarterly decline in complaints and sustain those initiatives.
 
-# Author
+## Author
 Anna Zyienom Yohanna  
 Data Analyst | Excesl | Power BI | SQL| Transforming Raw Data into Meaningful Insights. - [LinkedIn](https://www.linkedin.com/in/anna-yohanna-6421b1299)
 
